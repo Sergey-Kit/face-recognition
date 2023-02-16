@@ -1,3 +1,5 @@
 /VGGFace2_Data/train
 
 img_align_celeba/
+
+.venv
