@@ -1,0 +1,5 @@
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+dlib @ file:///home/conda/feedstock_root/build_artifacts/dlib_1670031258009/work
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1675642519433/work
+opencv-python==4.7.0
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1662214488106/work
